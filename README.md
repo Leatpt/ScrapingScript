@@ -1,0 +1,2 @@
+# ScrapingScript
+Veebirakenduste Turvalisus
